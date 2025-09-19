@@ -1,4 +1,3 @@
-# Automatic cars
-
-## A thought process
-
+<h1>Why do I want to join DCODE?</h1>
+<h2>Open source software offers numerous benefits that make it a compelling choice for many users. Its cost effectiveness, flexibility, community support, transparency, security, innovation, and longevity are just a few reasons why I love open source software.</h3>
+<h3>Open-source software is used in virtually every aspect of modern technology, from smartphones to air travel, Netflix streaming to space research. Its market is expanding tremendously as a result of its widespread use, accessibility, and quick adoption in the digital transformation revolution.</h3>
